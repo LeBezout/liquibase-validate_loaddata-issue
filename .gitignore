@@ -1,0 +1,13 @@
+*.db
+*.jar
+
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+*.tmp
+*.bak
+*.old
+*.sav
+Thumbs.db
